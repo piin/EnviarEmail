@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Enviar Email</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_boton">Enviar</string>
+    <string name = "txt_nombre">Nombre</string>
+    <string name = "txt_telefono">Telefono</string>
+    <string name = "txt_condiciones_de_uso">Condiciones de uso</string>
+    <string name = "txt_extra">Extra</string>
+    
+
+</resources>
